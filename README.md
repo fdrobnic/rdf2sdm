@@ -16,4 +16,4 @@ The generated files can be tested using a local test setup as presented in the `
 
 The software complements the article:
 
-Semantic Interoperability and Data Spaces as an Accelerator in Development Studies of Children and Adolescents by Franc Drobnič, Gregor Starc, Gregor Jurak, Andrej Kos, and Matevž Pustišek
+Automatic Generation of NGSI-LD Data Models from RDF Ontologies: Developmental Studies of Children and Adolescents Use Case by Franc Drobnič, Gregor Starc, Gregor Jurak, Andrej Kos, and Matevž Pustišek
